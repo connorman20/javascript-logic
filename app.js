@@ -96,3 +96,4 @@ console.log(G);
 console.log(O);
 console.log(N);
 console.log(N);
+console.log(A);
