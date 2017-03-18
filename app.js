@@ -39,7 +39,9 @@ y++;
 console.log(y)
 
 // Decrement (--)
-// 5--;// this is incorect
+var x = 5;
+ x--;
+ console.log(x)
 
 /*
 * Comparison Operators (These return a boolean value of true or false)
@@ -47,7 +49,9 @@ console.log(y)
 */
 
 // Strict Equal (===)
-5 === "five";
+var five = 5;
+console.log(5 === five);
+
 
 // Not Equal (!==)
 5!== "five";
@@ -83,3 +87,4 @@ null <= null;
 */
 var a = "apple";
 var b = 2;
+console.log(N);
