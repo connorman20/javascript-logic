@@ -9,29 +9,37 @@
 */
 
 // Addition (+)
-5 + 9;
+console.log(5 + 9);//14
 
-"one" + "one";
+console.log("one" + "one");// "oneone"
 
 // Subtraction (-)
-8 - 20;
+console.log(8 - 20);// -12
 
 // Multiplication (*)
-2 * 0;
+console.log(2 * 0);// 0
 
 // Division (/)
-15/50;
+console.log(15/50);// 0.3
 
 // Modulus (%)
-5 % 2;
+console.log(5 % 2);// 1
 
 // Increment (++)
-2++;
+var c = 3;
+c+=2;
+console.log(c);
 
--1++;
+var add;
+add = 2+3;
+console.log(add);
+
+var y = 7;
+y++; 
+console.log(y)
 
 // Decrement (--)
-5--;
+// 5--;// this is incorect
 
 /*
 * Comparison Operators (These return a boolean value of true or false)
