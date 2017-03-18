@@ -89,3 +89,4 @@ var a = "apple";
 var b = 2;
 console.log(N);
 console.log(E);
+console.log(V);
