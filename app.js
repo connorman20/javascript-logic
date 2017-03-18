@@ -91,3 +91,4 @@ console.log(N);
 console.log(E);
 console.log(V);
 console.log(E);
+console.log(R);
