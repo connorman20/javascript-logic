@@ -90,3 +90,4 @@ var b = 2;
 console.log(N);
 console.log(E);
 console.log(V);
+console.log(E);
